@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/awais khan" target="blank"><img src="https://img.shields.io/twitter/follow/awais khan?logo=twitter&style=for-the-badge" alt="awais khan" /></a> </p>
 
-- 🔭 I’m currently working on **Different apps like restaurant and tadie tasker**
+- 🔭 I’m currently working in **Canada-Clients-Projects**
 
 - 🌱 I’m currently learning **Flutter**
 
