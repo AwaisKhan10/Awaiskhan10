@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working in **Canada-Clients-Projects**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **backend-Node.Js**
 
 - 💬 Ask me about **flutter, dart language ,C++**
 
