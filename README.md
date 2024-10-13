@@ -21,8 +21,9 @@
 - ⚡ Fun fact **funny**
 
 <h3 align="left">Connect with me:</h3>
--  My Wattsapp Number **+923039639571**
 <p align="left">
+<a href="https://wa.me/923039639571" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+</a>
 <a href="https://twitter.com/awais khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awais khan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/awaiskhan10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awaiskhan10" height="30" width="40" /></a>
 <a href="https://fb.com/awais khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awais khan" height="30" width="40" /></a>
