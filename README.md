@@ -10,15 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/awais khan" target="blank"><img src="https://img.shields.io/twitter/follow/awais khan?logo=twitter&style=for-the-badge" alt="awais khan" /></a> </p>
 
-- 🔭 I’m currently working in **Canada-Clients-Projects**
-
-- 🌱 I’m currently learning **backend-Node.Js**
-
-- 💬 Ask me about **flutter, dart language ,C++**
-
-- 📫 How to reach me **awais.sf10@gmail.com**
-
-- ⚡ Fun fact **funny**
+🔭 I’m currently working as the CEO of BrightCodeLab.
+🌱 I’m currently learning backend development with Node.js.
+💬 Ask me about Flutter, Dart, Node.js, or any phase of development.
+📫 How to reach me: awais.sf10@gmail.com.
+⚡ Fun fact: Always up for a good laugh!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
