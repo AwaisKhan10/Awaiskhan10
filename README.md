@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently working as the CEO of BrightCodeLab.
 
-- 🌱 I’m currently learning backend development with Node.js.
-
 - 💬 Ask me about Flutter, Dart, Node.js, or any phase of development.
 
 - 📫 How to reach me: awais.sf10@gmail.com.
