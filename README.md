@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/awais-khan-linkdin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awaiskhan10" height="30" width="40" /></a>
 <a href="https://www.facebook.com/awais.sf10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awais khan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/flutter_dev10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awai.skhan58" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/awais khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="awais khan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codewithAwais10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="awais khan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
