@@ -1,7 +1,6 @@
 ### Hi I'm Awasis Khan 👋
 
-<h1 align="center">Full Stack Developer</h2>
-
+<h1 align="center" style="margin-bottom: 20px;">Full Stack Developer</h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
