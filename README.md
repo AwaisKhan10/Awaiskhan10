@@ -1,4 +1,4 @@
-### Hi I'm Awasis Khan 👋
+### Hi I'm Awais Khan 👋
 
 <h1 align="center">Full Stack Mobile App Developer</h1>
 
