@@ -36,10 +36,9 @@ Node.js
 PostgreSQL
 MongoDB
 Firebase
+
 📊 GitHub Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=awaiskhan10&layout=compact" />
-</p>
+
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=awaiskhan10" />
 </p>
