@@ -15,15 +15,10 @@
 🗄️ Database Experience with PostgreSQL
 💬 Ask me about Mobile Apps, Web Apps, APIs, and System Design
 📫 Email: awais.sf10@gmail.com
-
-
 ⚡ Fun fact: I enjoy building scalable and clean architecture systems
-🌍 Connect with Me
-WhatsApp: https://wa.me/923039639571
-LinkedIn: https://www.linkedin.com/in/awais-khan-linkdin/
-Facebook: https://www.facebook.com/awais.sf10/
-Instagram: https://www.instagram.com/flutter_dev10/
-YouTube: https://www.youtube.com/@codewithAwais10
+
+🌐 Connect with me
+<p align="left"> <a href="https://wa.me/923039639571" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40"/></a> <a href="https://www.linkedin.com/in/awais-khan-linkdin/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a> <a href="https://www.facebook.com/awais.sf10/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a> <a href="https://www.instagram.com/flutter_dev10/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a> <a href="https://www.youtube.com/@codewithAwais10" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/></a> </p>
 
 🛠️ Tech Stack
 Flutter
