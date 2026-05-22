@@ -10,11 +10,17 @@
 
 🚀 About Me
 🔭 I am currently working as a Full Stack Developer
+
 📱 Mobile App Development (Flutter & React Native)
+
 🌐 Web Development (Next.js & NestJS)
+
 🗄️ Database Experience with PostgreSQL
+
 💬 Ask me about Mobile Apps, Web Apps, APIs, and System Design
+
 📫 Email: awais.sf10@gmail.com
+
 ⚡ Fun fact: I enjoy building scalable and clean architecture systems
 
 🌐 Connect with me
