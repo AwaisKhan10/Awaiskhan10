@@ -14,9 +14,9 @@
 
 📱 Mobile App Development (Flutter & React Native)
 
-🌐 Web Development (Next.js & NestJS)
+🌐 Web Development (Next.js, Node.js & NestJS)
 
-🗄️ Database Experience with PostgreSQL
+🗄️ Database Experience with PostgreSQL, MongoDb, MYSQL, Firebase
 
 💬 Ask me about Mobile Apps, Web Apps, APIs, and System Design
 
