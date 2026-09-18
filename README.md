@@ -58,4 +58,6 @@ Git • GitHub • REST APIs • Vercel • Netlify
 🚀 SaaS & Business Applications
 
 📊 GitHub Stats
-<p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=awaiskhan10" /> </p>
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=awaiskhan10" />
+</p>
