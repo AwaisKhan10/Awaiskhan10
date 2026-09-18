@@ -9,13 +9,21 @@
 🚀 About Me
 
 🔭 Full Stack Developer with 6+ years of experience building mobile apps, web applications, APIs, and backend systems.
+
 📱 Mobile App Development with Flutter & React Native
+
 🌐 Web Development with React, Next.js, JavaScript, TypeScript, HTML & CSS
+
 ⚙️ Backend Development with Node.js, NestJS & PHP
+
 🗄️ Database Experience with PostgreSQL, MySQL, MongoDB & Firebase
+
 🔗 REST API Development & Third-Party API Integrations
+
 💬 Ask me about Mobile Apps, Web Apps, APIs, Backend Development & System Architecture
+
 📫 Email: awais.sf10@gmail.com
+
 ⚡ I enjoy building clean, maintainable, and reliable software products.
 
 🌐 Connect with me
