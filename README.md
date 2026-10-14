@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:312e81&height=200&section=header&text=Awais%20Khan&fontSize=46&fontColor=F8FAFC&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Mobile%20%26%20Web%20Developer&descAlignY=54&descAlign=50&descSize=18" width="100%" alt="Awais Khan" />
-
 <a href="https://github.com/AwaisKhan10">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Full+Stack+Mobile+%26+Web+Developer;Flutter+%7C+React+Native;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+NestJS+%7C+PHP;PostgreSQL+%7C+MySQL+%7C+MongoDB+%7C+Firebase;Clean%2C+Maintainable%2C+Reliable+Software" alt="Typing SVG" />
 </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AwaisKhan10/Awaiskhan10/main/portrait_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AwaisKhan10/Awaiskhan10/main/portrait_light.svg" />
+  <img alt="Awais Khan" src="https://raw.githubusercontent.com/AwaisKhan10/Awaiskhan10/main/portrait_dark.svg" width="100%" />
+</picture>
 
 <br/>
 
