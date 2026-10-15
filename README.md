@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/AwaisKhan10">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Full+Stack+Mobile+%26+Web+Developer;Flutter+%7C+Dart;Node.js+%7C+JavaScript+%7C+Python;TypeScript+%7C+React+%7C+Next.js;React+Native+%7C+NestJS+%7C+PHP;PostgreSQL+%7C+MySQL+%7C+MongoDB+%7C+Firebase" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Full+Stack+Mobile+%26+Web+Developer;Flutter+%7C+Dart;Node.js+%7C+JavaScript+%7C+Python;TypeScript+%7C+React+%7C+Next.js;React+Native+%7C+NestJS+%7C+PHP;PostgreSQL+%7C+MySQL+%7C+Supabase+%7C+Firebase" alt="Typing SVG" />
 </a>
 
 <picture>
@@ -96,7 +96,7 @@
 
 I am **Awais Khan**, a **Full Stack Mobile & Web Developer** with **6+ years** of experience building mobile apps, web applications, APIs, and backend systems.
 
-I work across the product: **Flutter and React Native** for mobile, **React, Next.js, JavaScript, TypeScript, HTML, and CSS** for the web, and **Node.js, NestJS, and PHP** for backend services. I use **PostgreSQL, MySQL, MongoDB, and Firebase** for data, and I build **REST APIs** and third-party integrations that stay clean, maintainable, and reliable.
+I work across the product: **Flutter and React Native** for mobile, **React, Next.js, JavaScript, TypeScript, HTML, and CSS** for the web, and **Node.js, NestJS, and PHP** for backend services. I use **PostgreSQL, MySQL, MongoDB, Firebase, and Supabase** for data, and I build **REST APIs** and third-party integrations that stay clean, maintainable, and reliable.
 
 Based in **Peshawar**, working with **BrightCodeLab**.
 
@@ -140,7 +140,7 @@ Based in **Peshawar**, working with **BrightCodeLab**.
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,postgres,mysql,mongodb,firebase" alt="Backend and databases" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,postgres,mysql,mongodb,firebase,supabase" alt="Backend and databases" />
 </p>
 
 ### Cloud, DevOps & Tooling
@@ -159,6 +159,7 @@ Based in **Peshawar**, working with **BrightCodeLab**.
 <img src="https://img.shields.io/badge/NestJS-Backend-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
 <img src="https://img.shields.io/badge/REST-APIs-7C3AED?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs" />
 <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=0A101F" alt="Firebase" />
+<img src="https://img.shields.io/badge/Supabase-Database-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
 ---
@@ -170,7 +171,7 @@ Based in **Peshawar**, working with **BrightCodeLab**.
 | Mobile | Core | Flutter and React Native apps, from UI through device-ready product flows |
 | Web | Core | React, Next.js, JavaScript, TypeScript, HTML, and CSS |
 | Backend | Core | Node.js, NestJS, and PHP services behind real product features |
-| Databases | Core | PostgreSQL, MySQL, MongoDB, and Firebase |
+| Databases | Core | PostgreSQL, MySQL, MongoDB, Firebase, and Supabase |
 | APIs | Core | REST APIs and third-party integrations, including payments |
 | Product | Core | Admin panels, dashboards, SaaS, and business applications |
 | Architecture | Core | Clean, maintainable structure across mobile, web, and backend |
@@ -242,12 +243,12 @@ A user-facing restaurant application built as a mobile product.
 * Ship mobile products with Flutter and React Native.
 * Build web apps with React, Next.js, JavaScript, TypeScript, HTML, and CSS.
 * Design backend services with Node.js, NestJS, and PHP.
-* Model data in PostgreSQL, MySQL, MongoDB, and Firebase.
+* Model data in PostgreSQL, MySQL, MongoDB, Firebase, and Supabase.
 * Develop REST APIs and connect third-party services, including payments.
 * Deliver admin panels, dashboards, SaaS, and business applications.
 * Keep the codebase clean, maintainable, and reliable across the stack.
 
-**Skills:** `Dart` `Flutter` `React Native` `JavaScript` `TypeScript` `React` `Next.js` `Node.js` `NestJS` `PHP` `PostgreSQL` `MySQL` `MongoDB` `Firebase` `REST APIs`
+**Skills:** `Dart` `Flutter` `React Native` `JavaScript` `TypeScript` `React` `Next.js` `Node.js` `NestJS` `PHP` `PostgreSQL` `MySQL` `MongoDB` `Firebase` `Supabase` `REST APIs`
 
 ---
 
