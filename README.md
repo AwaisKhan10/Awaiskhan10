@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/AwaisKhan10">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Full+Stack+Mobile+%26+Web+Developer;Flutter+%7C+React+Native;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+NestJS+%7C+PHP;PostgreSQL+%7C+MySQL+%7C+MongoDB+%7C+Firebase;Clean%2C+Maintainable%2C+Reliable+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Full+Stack+Mobile+%26+Web+Developer;Flutter+%7C+Dart;Node.js+%7C+JavaScript+%7C+Python;TypeScript+%7C+React+%7C+Next.js;React+Native+%7C+NestJS+%7C+PHP;PostgreSQL+%7C+MySQL+%7C+MongoDB+%7C+Firebase" alt="Typing SVG" />
 </a>
 
 <picture>
@@ -122,7 +122,7 @@ Based in **Peshawar**, working with **BrightCodeLab**.
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=dart,js,ts,php,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,js,python,ts,php,html,css" alt="Languages" />
 </p>
 
 ### Mobile
